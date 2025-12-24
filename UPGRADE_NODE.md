@@ -82,3 +82,12 @@ npm --version   # 应该显示 8.x.x 或更高
 npm run dev     # 应该能正常启动开发服务器
 ```
 
+## screenshots
+- login  
+  ![登录页占位](docs/screenshots/login.png)
+- dashboard  
+  ![仪表盘占位](docs/screenshots/dashboard.png)
+- job list 
+  ![任务列表占位](docs/screenshots/job-list.png)
+- job log 
+  ![执行日志占位](docs/screenshots/job-log.png)

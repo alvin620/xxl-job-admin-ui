@@ -160,6 +160,16 @@ npm run preview
    - 多标签页管理
    - 现代化UI设计
 
+## 界面截图
+- 登录页  
+  ![登录页占位](docs/screenshots/login.png)
+- 仪表盘  
+  ![仪表盘占位](docs/screenshots/dashboard.png)
+- 任务列表  
+  ![任务列表占位](docs/screenshots/job-list.png)
+- 执行日志  
+  ![执行日志占位](docs/screenshots/job-log.png)
+
 ## API接口说明
 
 所有API接口都通过 `src/utils/request.js` 统一封装，支持：
